@@ -1,0 +1,16 @@
+[
+    {
+        "Protocol": "Both",
+        "Port": "7777",
+        "Name": "GamePort",
+        "Description": "Port used for main game traffic",
+        "Ref": "GamePort"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "27015",
+        "Name": "Steam Query Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "SteamQueryPort"
+    }
+]
